@@ -14,7 +14,7 @@ nav_order: 1
 * Submission Begins:
   * Submission Portal: TBD
 * Submission Deadline: TBD (11:59pm, anywhere on earth)
-* Notification of Acceptance: TBD
+* Notification of Acceptance: June 9, 2025
 * Camera-ready papers due: TBD (11:59pm, anywhere on earth)
 * Workshop Date: TBD
 
@@ -90,6 +90,11 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
             <img src="/assets/img/organizers/liz.jpg" alt="Name 7">
             <a href="https://esalesky.github.io/">Elizabeth Salesky</a>
             <p>Google Deepmind</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/samir.jpg" alt="Name 8">
+            <a href="https://farhansamir.notion.site/samir">Farhan Samir</a>
+            <p>University of British Columbia</p>
         </div>
     </div>
 </html>
