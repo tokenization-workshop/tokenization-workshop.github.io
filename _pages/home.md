@@ -92,7 +92,7 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
             <p>Google Deepmind</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/samir.jpg" alt="Name 8">
+            <img src="/assets/img/organizers/samir.png" alt="Name 8">
             <a href="https://farhansamir.notion.site/samir">Farhan Samir</a>
             <p>University of British Columbia</p>
         </div>
