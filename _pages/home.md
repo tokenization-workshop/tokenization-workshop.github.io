@@ -26,13 +26,13 @@ Tokenization---in the context of language models---defines how data are represen
 This workshop will focus on tokenization in a broad sense and cover the following research directions, provided with examples of related work:
 
 * **Subword Tokenization**: Examination of current techniques such as WordPiece, BPE, and UnigramLM, as well as extensions to improve their efficiency and applicability.
-* **Tokenizer Modification** Methods for updating tokenizers after model training to improve the model's efficiency or performance without retraining from scratch 
-* **Alternative Approaches to Represent Text** Investigation into alternative input representations for text such as words, characters, and even non-textual units like bytes or pixels.
-* **Multilingual Tokenization** Focus on ensuring tokenization methods are equitable and effective across various languages. Identification of relevant failure modes caused by tokenization. Use of tokenization for languages with lower resources. 
-* **Tokenization and Linguistics** Methods for morphologically motivated tokenization and their evaluation.
+* **Tokenizer Modification**: Methods for updating tokenizers after model training to improve the model's efficiency or performance without retraining from scratch 
+* **Alternative Approaches to Represent Text**: Investigation into alternative input representations for text such as words, characters, and even non-textual units like bytes or pixels.
+* **Multilingual Tokenization**: Focus on ensuring tokenization methods are equitable and effective across various languages. Identification of relevant failure modes caused by tokenization. Focus on tokenization for lower-resource languages.
+* **Tokenization and Linguistics**: Methods for morphologically motivated tokenization and their evaluation.
 Assessments of the linguistic motivation of tokenizers and their impact across typologically diverse languages. 
-* **Tokenization and Statistics** Statistical analysis of subword properties. For instance, the study of compression effectiveness of different tokenization methods.
-* **Tokenization for Other Modalities** Techniques of tokenization for images, audio, and video. Study of representation alignment across modalities.
+* **Tokenization and Statistics**: Statistical analysis of subword properties. For instance, the study of compression effectiveness of different tokenization methods.
+* **Tokenization for Other Modalities**: Techniques of tokenization for images, audio, and video. Study of representation alignment across modalities.
 
 
 <br>
