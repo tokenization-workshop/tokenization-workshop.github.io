@@ -53,7 +53,7 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
         <div class="team-member">
             <img src="/assets/img/organizers/tomasz.jpeg" alt="Name 1">
             <a href="https://tomlimi.github.io/">Tomasz Limisiewicz</a>
-            <p>Charles University</p>
+            <p>Meta<br>University of Washington</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/valentin.jpeg" alt="Name 4">
