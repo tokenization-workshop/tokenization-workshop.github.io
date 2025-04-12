@@ -11,7 +11,7 @@ nav_order: 1
 <br>
 ### Important Dates
 
-* Submission Begins:
+* Submission Begins: April 14, 2025
   * Submission Portal: [OpenReview](#)
 * Submission Deadline: May 30, 2025 (11:59pm, anywhere on earth)
 * Notification of Acceptance: June 9, 2025
