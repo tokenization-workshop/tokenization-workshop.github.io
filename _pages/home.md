@@ -12,28 +12,23 @@ nav_order: 1
 ### Important Dates
 
 * Submission Begins:
-  * Submission Portal: TBD
-* Submission Deadline: TBD (11:59pm, anywhere on earth)
+  * Submission Portal: [OpenReview](#)
+* Submission Deadline: May 30, 2025 (11:59pm, anywhere on earth)
 * Notification of Acceptance: June 9, 2025
-* Camera-ready papers due: TBD (11:59pm, anywhere on earth)
-* Workshop Date: TBD
+* Camera-ready papers due:  (11:59pm, anywhere on earth)
+* Workshop Date: July 18, 2025.
 
 
 ### Topics of Interest
 
-Tokenization---in the context of language models---defines how data are represented as input and output. Tokenization has been shown to significantly affect the utility and effectiveness of models. This finding has stirred considerable interest in tokenization as a research direction in natural language processing, multimodal learning and related fields.
+Tokenization---in the context of language models---defines how data are represented as input and output. Tokenization has been shown to significantly affect the utility and effectiveness of models. This finding has stirred considerable interest in tokenization as a research direction in natural language processing, multimodal learning and related fields.This workshop will focus on tokenization in a broad sense and cover the following research directions:
 
-This workshop will focus on tokenization in a broad sense and cover the following research directions, provided with examples of related work:
-
-* **Subword Tokenization**: Examination of current techniques such as WordPiece, BPE, and UnigramLM, as well as extensions to improve their efficiency and applicability.
-* **Tokenizer Modification**: Methods for updating tokenizers after model training to improve the model's efficiency or performance without retraining from scratch 
-* **Alternative Approaches to Represent Text**: Investigation into alternative input representations for text such as words, characters, and even non-textual units like bytes or pixels.
-* **Multilingual Tokenization**: Focus on ensuring tokenization methods are equitable and effective across various languages. Identification of relevant failure modes caused by tokenization. Focus on tokenization for lower-resource languages.
-* **Tokenization and Linguistics**: Methods for morphologically motivated tokenization and their evaluation.
-Assessments of the linguistic motivation of tokenizers and their impact across typologically diverse languages. 
+* **Subword Tokenization**: Examination of current tokenization techniques such as WordPiece, BPE, and UnigramLM, as well as extensions to improve their efficiency and applicability.
+* **Tokenization for Various Modalities**: Techniques of tokenization for images, audio, and video. Study of representation alignment across modalities.
+* **Multilingual Tokenization**: Focus on ensuring tokenization methods are effective across various languages. Identification of relevant failure modes caused by tokenization.
+* **Tokenizer Modification**: Methods for updating tokenizers after model training to improve the model's efficiency or performance without retraining from scratch.
+* **Alternative Approaches to Represent Input**: Investigation into alternative input representations for data such as patches, bytes, or pixels.
 * **Tokenization and Statistics**: Statistical analysis of subword properties. For instance, the study of compression effectiveness of different tokenization methods.
-* **Tokenization for Other Modalities**: Techniques of tokenization for images, audio, and video. Study of representation alignment across modalities.
-
 
 <br>
 
@@ -42,12 +37,11 @@ Assessments of the linguistic motivation of tokenizers and their impact across t
 Our author guidelines follow the TBD requirements unless otherwise specified. 
 * Paper submission is hosted on [OpenReview](#).
 * We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
-  * Please use the provided LaTex template ([Overleaf](#)) for your submission. Please follow the paper formatting guidelines general to “*ACL” conferences as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
+  * Please use the provided LaTex template ([Style Files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)) for your submission. Please follow the paper formatting guidelines general to [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
   * Posting papers on preprint servers like ArXiv is permitted.
-  * We encourage each submission to discuss the ethical and societal implications of their work, wherever applicable. 
-
+  * We encourage each submission to discuss the limitations as well as ethical and societal implications of their work, wherever applicable (but neither are required). 
 * This workshop offers both archival and non-archival options for submissions. Archival papers will be indexed with proceedings, while non-archival submissions will not.
 * The review process will be double-blind.
 <br>
