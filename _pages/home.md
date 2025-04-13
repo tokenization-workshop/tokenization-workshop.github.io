@@ -36,7 +36,7 @@ Tokenization---in the context of language models---defines how data are represen
 
 Our author guidelines follow the TBD requirements unless otherwise specified. 
 * Paper submission is hosted on [OpenReview](#).
-* We welcome both short (__up to 4 pages__) and long papers (__up to 8 pages__), not including references or appendix. 
+* Each submission should contain __up to 9 pages__, not including references or appendix (shorter submissions also welcome). 
   * Please use the provided LaTex template ([Style Files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)) for your submission. Please follow the paper formatting guidelines general to [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
