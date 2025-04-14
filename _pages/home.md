@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on Tokenization</h3>
+title: <h3  align="center">Tokenization Workshop</h3>
 nav_order: 1
 ---
 
