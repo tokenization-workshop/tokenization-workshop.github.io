@@ -21,14 +21,18 @@ nav_order: 1
 
 ### Topics of Interest
 
-Tokenization---in the context of language models---defines how data are represented as input and output. Tokenization has been shown to significantly affect the utility and effectiveness of models. This finding has stirred considerable interest in tokenization as a research direction in natural language processing, multimodal learning and related fields.This workshop will focus on tokenization in a broad sense and cover the following research directions:
+Tokenization—the process of converting raw data into discrete units for model input and output—has emerged as a critical component across machine learning domains. Originally central to natural language processing (NLP), tokenization is now equally essential in multimodal learning, computer vision, speech processing, and other areas. Recent research has shown that tokenization strategies significantly impact model utility, efficiency, and generalization, sparking a surge of interest in this foundational topic.
 
-* **Subword Tokenization**: Examination of current tokenization techniques such as WordPiece, BPE, and UnigramLM, as well as extensions to improve their efficiency and applicability.
-* **Tokenization for Various Modalities**: Techniques of tokenization for images, audio, and video. Study of representation alignment across modalities.
-* **Multilingual Tokenization**: Focus on ensuring tokenization methods are effective across various languages. Identification of relevant failure modes caused by tokenization.
-* **Tokenizer Modification**: Methods for updating tokenizers after model training to improve the model's efficiency or performance without retraining from scratch.
-* **Alternative Approaches to Represent Input**: Investigation into alternative input representations for data such as patches, bytes, or pixels.
-* **Tokenization and Statistics**: Statistical analysis of subword properties. For instance, the study of compression effectiveness of different tokenization methods.
+The Tokenization Workshop (TokShop) at ICML aims to bring together researchers and practitioners from all corners of machine learning to explore tokenization in its broadest sense. We will discuss innovations, challenges, and future directions for tokenization across diverse data types and modalities. Topics of interest include:
+
+* **Subword Tokenization in NLP**: Analysis of techniques such as BPE, WordPiece, and UnigramLM, as well as improvements for efficiency, interpretability, and adaptability.
+* **Multimodal Tokenization**: Tokenization strategies for images, audio, video, and other modalities, including methods to align representations across different types of data.
+* **Multilingual Tokenization**: Development of tokenizers that work robustly across languages and scripts, and investigation into failure modes tied to tokenization.
+* **Tokenizer Modification Post-Training**: Methods for updating tokenizers after model training to boost performance and/or efficiency without retraining from scratch.
+* **Alternative Input Representations**: Exploration of non-traditional tokenization approaches, such as byte-level, pixel-level, or patch-based representations.
+* **Statistical Perspectives on Tokenization**: Empirical analysis of token distributions, compression properties, and correlations with model behavior.
+
+By broadening the scope of tokenization research beyond language, this workshop seeks to foster cross-disciplinary dialogue and inspire new advances at the intersection of representation learning, data efficiency, and model design.
 
 <br>
 
