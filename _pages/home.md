@@ -11,12 +11,12 @@ nav_order: 1
 <br>
 ### Important Dates
 
-* Submission Begins: April 14, 2025
-  * Submission Portal: [OpenReview](#)
-* Submission Deadline: May 30, 2025 (11:59pm, anywhere on earth)
-* Notification of Acceptance: June 9, 2025
+* Submission begins: April 14, 2025
+  * Submission portal: [OpenReview](#)
+* Submission deadline: May 30, 2025 (11:59pm, anywhere on earth)
+* Notification of acceptance: June 9, 2025
 * Camera-ready papers due:  (11:59pm, anywhere on earth)
-* Workshop Date: July 18, 2025.
+* Workshop date: July 18, 2025
 
 
 ### Topics of Interest
@@ -34,14 +34,14 @@ Tokenization---in the context of language models---defines how data are represen
 
 ### Guidelines
 
-Our author guidelines follow the TBD requirements unless otherwise specified. 
+Our author guidelines follow the ICML requirements unless otherwise specified. 
 * Paper submission is hosted on [OpenReview](#).
 * Each submission should contain __up to 9 pages__, not including references or appendix (shorter submissions also welcome). 
-  * Please use the provided LaTex template ([Style Files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)) for your submission. Please follow the paper formatting guidelines general to [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
+  * Please use the provided LaTeX template ([Style Files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)) for your submission. Please follow the paper formatting guidelines general to [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
-  * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix. 
+  * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix.
   * Posting papers on preprint servers like ArXiv is permitted.
-  * We encourage each submission to discuss the limitations as well as ethical and societal implications of their work, wherever applicable (but neither are required). 
+  * We encourage each submission to discuss the limitations as well as ethical and societal implications of their work, wherever applicable (but neither are required). These sections do not count towards the page limit.
 * This workshop offers both archival and non-archival options for submissions. Archival papers will be indexed with proceedings, while non-archival submissions will not.
 * The review process will be double-blind.
 <br>
@@ -73,7 +73,7 @@ Our author guidelines follow the TBD requirements unless otherwise specified.
         <div class="team-member">
             <img src="/assets/img/organizers/jindra.jpg" alt="Name 2">
             <a href="https://ufal.mff.cuni.cz/jindrich-helcl">Jindřich Helcl</a>
-            <p>Charles University</p>
+            <p>University of Oslo</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/oreva.jpeg" alt="Name 6">
