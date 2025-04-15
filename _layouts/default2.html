@@ -23,7 +23,11 @@ layout: parse
             margin: 0;
             padding: 0;
         }
-        
+
+        h2, h5, .headlinks {
+            font-weight: bold;
+        }
+
         /* Set the background image and style for the header */
         .headerr {
             background-image: url('../assets/img/banner.PNG'); /* Replace with the path to your image */
@@ -32,23 +36,24 @@ layout: parse
             max-width: 100%;
             margin: 50 auto;
             /* Makd the background image more transparent */
-            opacity: 0.8;
+            opacity: 0.7;
         }
 
+
         </style>
-        
+
         <div class="headerr">
             <br><br>
         <h2  align="center">Tokenization Workshop (TokShop)</h2>
         <h5  align="center">Let's Talk about Tokenization</h2><br>
-        <p align="center" style="text-weight: bold">
+        <p align="center" class="headlinks">
         @ ICML 2025, July 18<br>
         Vancouver Convention Center<br>
         Vancouver, BC<br>
-        
+
         Quick Links:
         <!--
-        <a href="https://twitter.com/itif_workshop">Twitter</a> | 
+        <a href="https://twitter.com/itif_workshop">Twitter</a> |
         -->
         <a href="#">OpenReview Portal</a> <br>
         <!-- Program:
@@ -57,7 +62,7 @@ layout: parse
         </p>
         <br>
     </div>
-        
+
     <!-- Content -->
     <div class="container mt-5">
       {{ content }}
