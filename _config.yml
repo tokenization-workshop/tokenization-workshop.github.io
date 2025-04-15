@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Workshop on Tokenization @ ICML 2025 # the website title (if blank, full name will be used instead)
+title: Tokenization Workshop @ ICML 2025 # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
 last_name: 
 email: tokenization.workshop@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Workshop on Tokenization @ ICML 2025
+  Tokenization Workshop @ ICML 2025
 keywords: tokenization, workshop  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
