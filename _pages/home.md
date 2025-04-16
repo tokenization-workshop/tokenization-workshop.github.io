@@ -12,7 +12,7 @@ nav_order: 1
 ### Important Dates
 
 * Submission begins: April 14, 2025
-  * Submission portal: [OpenReview](#)
+  * Submission portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/TokShop#tab-recent-activity)
 * Submission deadline: May 30, 2025 (11:59pm, anywhere on earth)
 * Notification of acceptance: June 9, 2025
 * Camera-ready papers due:  (11:59pm, anywhere on earth)
@@ -39,7 +39,7 @@ By broadening the scope of tokenization research beyond language, this workshop 
 ### Guidelines
 
 Our author guidelines follow the ICML requirements unless otherwise specified. 
-* Paper submission is hosted on [OpenReview](#).
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/TokShop#tab-recent-activity).
 * Each submission should contain __up to 9 pages__, not including references or appendix (shorter submissions also welcome). 
   * Please use the provided LaTeX template ([Style Files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)) for your submission. Please follow the paper formatting guidelines general to [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
