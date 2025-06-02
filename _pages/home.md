@@ -13,9 +13,9 @@ nav_order: 1
 
 * Submission begins: April 14, 2025
   * Submission portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/TokShop#tab-recent-activity)
-* Submission deadline: May 30, 2025 (11:59pm, anywhere on earth)
+* Submission deadline: ~~May 30~~ May 31, 2025 (11:59pm, anywhere on earth)
 * Notification of acceptance: June 9, 2025
-* Camera-ready papers due:  (11:59pm, anywhere on earth)
+* Camera-ready papers due: June 18 (11:59pm, anywhere on earth)
 * Workshop date: July 18, 2025
 
 
