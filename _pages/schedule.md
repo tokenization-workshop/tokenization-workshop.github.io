@@ -7,27 +7,15 @@ nav_order: 3
 ---
 # Schedule
 
-#### **8:45 a.m. – 9:00 a.m.**
+**8:45 a.m. – 9:00 a.m.**: **Opening**
 
-**Opening**
+**9:00 a.m. – 9:10 a.m.**: **Coffee Break**
 
-#### **9:00 a.m. – 9:10 a.m.**
+**9:10 a.m. – 10:00 a.m.**: **Invited Talk (Yuval Pinter)** -- *Beat them? Join them? Fix them? Tokenization Research in a Downstream World*
 
-**Coffee Break**
+**10:00 a.m. – 10:50 a.m.**: **Invited Talk (Desmond Elliott)** -- *TBD*
 
-#### **9:10 a.m. – 10:00 a.m.**
-
-**Invited Talk:** *Beat them? Join them? Fix them? Tokenization Research in a Downstream World*
-
-**Speaker:** Yuval Pinter
-
-#### **10:00 a.m. – 10:50 a.m.**
-
-**Invited Talk:** *TBD*
-
-**Speaker:** Desmond Elliott
-
-#### **10:50 a.m. – 12:00 p.m.**
+**10:50 a.m. – 12:00 p.m.**:
 
 **Poster Session: Tokenization of Text**
 
@@ -54,17 +42,11 @@ nav_order: 3
 * *Adversarial Tokenization* — Renato Geh, Zilei Shao, Guy Van den Broeck
 * *InCa and InDia: Inline Casing and Diacritization Preprocessing For Robust-to-Noise Tokenization and Interpretability* — Kirill Semenov, Martin Popel
 
-#### **12:00 p.m. – 1:00 p.m.**
+**12:00 p.m. – 1:00 p.m.**: **Lunch Break**
 
-**Lunch Break**
+**1:00 p.m. – 1:50 p.m.**: **Invited Talk (Adrian Łańcucki)** -- *Learning Dynamic Segmentation and Compression of Sequences in Transformer LLMs*
 
-#### **1:00 p.m. – 1:50 p.m.**
-
-**Invited Talk:** *Learning Dynamic Segmentation and Compression of Sequences in Transformer LLMs*
-
-**Speaker:** Adrian Łańcucki
-
-#### **1:50 p.m. – 3:00 p.m.**
+**1:50 p.m. – 3:00 p.m.**
 
 **Poster Session: Tokenization Across Modalities**
 
@@ -91,13 +73,9 @@ nav_order: 3
 * *GeneticBPE: Motif-Preserving Tokenization for Robust miRNA Modeling* — Prabhav Sanga, Jaskaran Singh, ARUN DUBEY
 * *Pitfalls, Subtleties, and Techniques in Automata-Based Subword-Level Constrained Generation* — Marco Cognetta, David Pohl, Junyoung Lee, Naoaki Okazaki
 
-#### **3:00 p.m. – 3:30 p.m.**
+**3:00 p.m. – 3:30 p.m.**: **Coffee Break**
 
-**Coffee Break**
-
-#### **3:30 p.m. – 4:30 p.m.**
-
-**Panel: Future of Tokenization**
+**3:30 p.m. – 4:30 p.m.**: **Panel: Future of Tokenization**
 
 * Albert Gu (Carnegie Mellon University)
 * Alisa Liu (University of Washington)
@@ -106,13 +84,9 @@ nav_order: 3
 * Yuval Pinter (Ben-Gurion University of the Negev)
 
 
-#### **4:30 p.m. – 5:00 p.m.**
+**4:30 p.m. – 5:00 p.m.**: **Best Paper Session**
 
-**Best Paper Session**
-
-#### **5:00 p.m. – 5:30 p.m.**
-
-**Closing Remarks**
+**5:00 p.m. – 5:30 p.m.**: **Closing Remarks**
 
 
 <style>
