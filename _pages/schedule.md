@@ -3,16 +3,106 @@ layout: page
 permalink: /schedule/
 title: Schedule
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 # Schedule
 
-TBD
+#### **8:45 a.m. – 9:00 a.m.**
 
-# Speakers
+**Opening**
 
-TBD
+#### **9:00 a.m. – 9:10 a.m.**
 
+**Coffee Break**
+
+#### **9:10 a.m. – 10:00 a.m.**
+
+**Invited Talk:** *Beat them? Join them? Fix them? Tokenization Research in a Downstream World*
+**Speaker:** Yuval Pinter
+
+#### **10:00 a.m. – 10:50 a.m.**
+
+**Invited Talk:** *TBD*
+**Speaker:** Desmond Elliott
+
+#### **10:50 a.m. – 12:00 p.m.**
+
+**Poster Session: Tokenization of Text**
+
+* *Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations* — Brian Zheng, Alisa Liu, Orevaoghene M Ahia, Jonathan Hayase, Yejin Choi, Noah Smith
+* *Subword Tokenization Strategies for Kurdish Word Embeddings* — Ali Salehi, Cassandra Jacobs
+* *Continuous Chain of Thought Enables Parallel Exploration and Reasoning* — Halil Alperen Gozeten, Muhammed Emrullah Ildiz, Xuechen Zhang, Hrayr Harutyunyan, Ankit Singh Rawat, Samet Oymak
+* *Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8* — Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
+* *Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives* — Ander Artola Velasco, Stratis Tsirtsis, Nastaran Okati, Manuel Gomez-Rodriguez
+* *Evaluating Morphological Alignment of Tokenizers in 70 Languages* — Catherine Arnett, Marisa Hudspeth, Brendan O'Connor
+* *Byte Latent Transformer: Patches Scale Better Than Tokens* — 14 presenters
+* *Contextual morphologically-guided tokenization for pretrained Latin BERT models* — Marisa Hudspeth, Patrick J. Burns, Brendan O'Connor
+* *SuperBPE: Space Travel for Language Models* — Alisa Liu, Jonathan Hayase, Valentin Hofmann, Sewoong Oh, Noah Smith, Yejin Choi
+* *zip2zip: Inference-Time Adaptive Vocabularies for Language Models via Token Compression* — Saibo Geng, Nathan Thomas Elian Ranchin, Yunzhen Yao, Maxime Peyrard, Chris Wendler, Michael Gastpar, Robert West
+* *How Much is Enough? The Diminishing Returns of Tokenization Training Data* — Varshini Reddy, Craig Schmidt, Yuval Pinter, Chris Tanner
+* *FLEXITOKENS: Flexible Tokenization for Evolving Language Models* — Abraham Owodunni, Orevaoghene M Ahia, Sachin Kumar
+* *Sampling from Your Language Model One Byte at a Time* — Jonathan Hayase, Alisa Liu, Noah Smith, Sewoong Oh
+* *BPE Stays on SCRIPT: Structured Encoding for Robust Multilingual Pretokenization* — Sander Land, Catherine Arnett
+* *ByteSpan: Information-Driven Subword Tokenisation* — Zebulon Goriely, Suchir Salhan, Pietro Lesci, Julius Cheng, Paula Buttery
+
+**With Prerecorded Videos:**
+
+* *MorphTok: Morphologically Grounded Tokenization for Indic Languages* — Maharaj Brahma, N J Karthika, Atul Singh, Devaraja Adiga, Smruti Bhate, Ganesh Ramakrishnan, Rohit Saluja, Maunendra Sankar Desarkar
+* *Causal Estimation of Tokenisation Bias* — Pietro Lesci, Clara Meister, Thomas Hofmann, Andreas Vlachos, Tiago Pimentel
+* *Adversarial Tokenization* — Renato Geh, Zilei Shao, Guy Van den Broeck
+* *InCa and InDia: Inline Casing and Diacritization Preprocessing For Robust-to-Noise Tokenization and Interpretability* — Kirill Semenov, Martin Popel
+
+#### **12:00 p.m. – 1:00 p.m.**
+
+**Lunch Break**
+
+#### **1:00 p.m. – 1:50 p.m.**
+
+**Invited Talk:** *Learning Dynamic Segmentation and Compression of Sequences in Transformer LLMs*
+**Speaker:** Adrian Łańcucki
+
+#### **1:50 p.m. – 3:00 p.m.**
+
+**Poster Session: Tokenization Across Modalities**
+
+* *How Tokenization Limits Phonological Knowledge Representation in Language Models and How to Improve Them* — Disen Liao, Freda Shi
+* *Robust Noise Attenuation via Adaptive Pooling of Transformer Outputs* — Greyson Brothers
+* *Canonical Autoregressive Generation* — Ivi Chatzi, Nina Corvelo Benz, Stratis Tsirtsis, Manuel Gomez-Rodriguez
+* *You Only Train Once: Efficient Tokenizer Selection for Arithmetic in Language Models* — Mucong Ding, Sean McLeish, Kazem Meidani, Igor Melnyk, Nam Nguyen, C. Bayan Bruss, Furong Huang
+* *Conditional Unigram Tokenization with Parallel Data* — Gianluca Vico, Jindřich Libovický
+* *One-D-Piece: Image Tokenizer Meets Quality-Controllable Compression* — Keita Miwa, Kento Sasaki, Hidehisa Arai, Tsubasa Takahashi, Yu Yamaguchi
+* *Tokenizing Nonverbal Communication in Salsa Dance* — Bermet Burkanova, Payam Jome Yazdian, Chuxuan Zhang, Trinity Evans, Paige Tuttösí, Angelica Lim
+* *Watermarking Autoregressive Image Generation* — Nikola Jovanović, Ismail Labiad, Tomas Soucek, Martin Vechev, Pierre Fernandez
+* *QuickMerge++: Token Merging with Autoregressive Prior* — Dong Liu, Yanxuan Yu
+* *Overcoming Vocabulary Constraints with Pixel-level Fallback* — Jonas F. Lotz, Hendra Setiawan, Stephan Peitz, Yova Kementchedjhieva
+* *Continuous Autoregressive Generation with Mixture of Gaussians* — Alex Quach, Johnson Tsun-Hsuan Wang, Ramin Hasani, Mathias Lechner, Alexander Amini
+* *Motion-Focused Tokenization for Source-Free Video Domain Adaptation* — Tzu Ling Liu, Ian Stavness, Mrigank Rochan
+* *Discrete JEPA: Learning Discrete Token Representations without Reconstruction* — Junyeob Baek, Hosung Lee, Christopher Hoang, Mengye Ren, Sungjin Ahn
+* *CAT: Content-Adaptive Image Tokenization* — Junhong Shen, Kushal Tirumala, Michihiro Yasunaga, Ishan Misra, Luke Zettlemoyer, LILI YU, Chunting Zhou
+* *Entropy-Driven Pre-tokenization for Byte Pair Encoding* — Yifan Hu, Ningyue Liang, Dachuan Zhao, Jonathan Geuter, Varshini Reddy, Craig Schmidt, Chris Tanner
+
+**With Prerecorded Videos:**
+
+* *Tokenisation is NP-Complete* — Philip Whittington, Gregor Bachmann, Tiago Pimentel
+* *HH-Codec: High Compression High-fidelity Discrete Neural Codec for Spoken Language Modeling* — rongkun xue, Yazhe Niu, Shuai Hu, Zixin Yin, Yongqiang Yao, Jing Yang
+* *GeneticBPE: Motif-Preserving Tokenization for Robust miRNA Modeling* — Prabhav Sanga, Jaskaran Singh, ARUN DUBEY
+* *Pitfalls, Subtleties, and Techniques in Automata-Based Subword-Level Constrained Generation* — Marco Cognetta, David Pohl, Junyoung Lee, Naoaki Okazaki
+
+#### **3:00 p.m. – 3:30 p.m.**
+
+**Coffee Break**
+
+#### **3:30 p.m. – 4:30 p.m.**
+
+**Panel: Future of Tokenization**
+
+#### **4:30 p.m. – 5:00 p.m.**
+
+**Best Paper Session**
+
+#### **5:00 p.m. – 5:30 p.m.**
+
+**Closing Remarks**
 
 
 <style>

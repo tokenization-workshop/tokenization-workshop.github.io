@@ -2,12 +2,55 @@
 layout: page
 permalink: /speakers/
 title: Speakers
-nav: false
+nav: true
 nav_order: 2
 ---
 
-## Talks
- TBD
+## Invited Talks
+<html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/yuval.jpg" alt="Yuval Pinter">
+            <p><a href="https://tzin.bgu.ac.il/~pintery/">Yuval Pinter</a>
+            <br>Stanford University</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/desmond.jpg" alt="Desmond Elliott">
+            <p><a href="https://elliottd.github.io/">Desmond Elliott</a>
+            <br>University of Oxford</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/adrian.jpeg" alt="Adrian Łańcucki">
+            <p><a href="https://scholar.google.com/citations?user=gydbYxkAAAAJ&hl=en">Adrian Łańcucki</a>
+            <br>Nvidia, ex-Octo AI, University of Washington</p>
+        </div>
+    </div>
+</html>
+
+<!-- <html>
+    <div class="team-container">
+        <div class="team-member">
+            <img src="/assets/img/speakers/hannah.jpg" alt="Hannah Rose Kirk">
+            <p><a href="https://www.hannahrosekirk.com/">Hannah Rose Kirk</a>
+            <br>University of Oxford</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/jared.jpg" alt="Jared Roesch">
+            <p><a href="https://jroesch.github.io/">Jared Roesche</a>
+            <br>Octo AI, University of Washington</p>
+        </div>
+        <div class="team-member">
+            <img src="/assets/img/speakers/diyi.jpg" alt="Diyi Yang">
+            <p><a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a>
+            <br>Stanford University</p>
+        </div>
+        <!-- <div class="team-member">
+            <img src="/assets/img/speakers/x.jpg" alt="Mitchell">
+            <p><a href="#">Mitchell</a>
+            <br>Columbia University</p>
+        </div>
+    </div>
+</html> -->
 
 
 <style>
