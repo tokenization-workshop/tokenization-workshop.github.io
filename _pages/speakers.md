@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-## Invited Talks
+## Keynote Speakers
 <html>
     <div class="team-container">
         <div class="team-member">

@@ -18,11 +18,13 @@ nav_order: 3
 #### **9:10 a.m. – 10:00 a.m.**
 
 **Invited Talk:** *Beat them? Join them? Fix them? Tokenization Research in a Downstream World*
+
 **Speaker:** Yuval Pinter
 
 #### **10:00 a.m. – 10:50 a.m.**
 
 **Invited Talk:** *TBD*
+
 **Speaker:** Desmond Elliott
 
 #### **10:50 a.m. – 12:00 p.m.**
@@ -59,6 +61,7 @@ nav_order: 3
 #### **1:00 p.m. – 1:50 p.m.**
 
 **Invited Talk:** *Learning Dynamic Segmentation and Compression of Sequences in Transformer LLMs*
+
 **Speaker:** Adrian Łańcucki
 
 #### **1:50 p.m. – 3:00 p.m.**
