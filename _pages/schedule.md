@@ -96,6 +96,13 @@ nav_order: 3
 
 **Panel: Future of Tokenization**
 
+* Albert Gu (Carnegie Mellon University)
+* Alisa Liu (University of Washington)
+* Kris Cao (Cohere)
+* Sander Land (Cohere)
+* Yuval Pinter (Ben-Gurion University of the Negev)
+
+
 #### **4:30 p.m. – 5:00 p.m.**
 
 **Best Paper Session**

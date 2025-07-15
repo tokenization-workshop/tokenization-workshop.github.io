@@ -12,17 +12,17 @@ nav_order: 2
         <div class="team-member">
             <img src="/assets/img/speakers/yuval.jpg" alt="Yuval Pinter">
             <p><a href="https://tzin.bgu.ac.il/~pintery/">Yuval Pinter</a>
-            <br>Stanford University</p>
+            <br>Ben-Gurion University of the Negev</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/desmond.jpg" alt="Desmond Elliott">
             <p><a href="https://elliottd.github.io/">Desmond Elliott</a>
-            <br>University of Oxford</p>
+            <br>University of Copenhagen</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/speakers/adrian.jpeg" alt="Adrian Łańcucki">
             <p><a href="https://scholar.google.com/citations?user=gydbYxkAAAAJ&hl=en">Adrian Łańcucki</a>
-            <br>Nvidia, ex-Octo AI, University of Washington</p>
+            <br>NVIDIA</p>
         </div>
     </div>
 </html>
