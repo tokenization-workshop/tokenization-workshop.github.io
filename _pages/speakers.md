@@ -8,6 +8,55 @@ nav_order: 2
 
 ## Keynote Speakers
 <html>
+  <div class="keynote-container">
+
+    <div class="keynote-speaker">
+      <img src="/assets/img/speakers/yuval.jpg" alt="Yuval Pinter">
+      <div class="keynote-details">
+        <h3>
+          <a href="https://tzin.bgu.ac.il/~pintery/">Yuval Pinter</a><br>
+          <small>Ben-Gurion University of the Negev</small>
+        </h3>
+        <p class="abstract">
+          <strong>Title:</strong> Beat them? Join them? Fix them? Tokenization Research in a Downstream World<br>
+          Despite the crucial position of tokenization in the NLP pipeline, as well as some recent large-scale attention it has been receiving and a growing scientific community, it appears that researchers and users of LLMs are not keen on adapting and incorporating innovation from the tokenization literature into major systems. In this bird's-eye-view talk, I will classify approaches in technical research into those seeking to innovate within the confines of current practice ("join them"), those seeking to break through these confines ("beat them"), and those that embrace a restorative philosophy ("fix them"). Drawing from previous examples of such contrasts in NLP history and the ways they played out, I will offer my recommendation for a way forward, hopefully opening up a meaningful discussion for this workshop and beyond. The talk will feature a wide variety of research artifacts, including work from my lab, covering algorithm development, evaluation studies, analysis, and theoretical contributions.
+        </p>
+      </div>
+    </div>
+
+    <div class="keynote-speaker">
+      <img src="/assets/img/speakers/desmond.jpg" alt="Desmond Elliott">
+      <div class="keynote-details">
+        <h3>
+          <a href="https://elliottd.github.io/">Desmond Elliott</a><br>
+          <small>University of Copenhagen</small>
+        </h3>
+        <p class="abstract">
+          <strong>Talk Title:</strong> TBD<br>
+          Abstract will be available soon.
+        </p>
+      </div>
+    </div>
+
+    <div class="keynote-speaker">
+      <img src="/assets/img/speakers/adrian.jpeg" alt="Adrian Łańcucki">
+      <div class="keynote-details">
+        <h3>
+          <a href="https://scholar.google.com/citations?user=gydbYxkAAAAJ&hl=en">Adrian Łańcucki</a><br>
+          <small>NVIDIA</small>
+        </h3>
+        <p class="abstract">
+          <strong>Talk Title:</strong> Learning Dynamic Segmentation and Compression of Sequences in Transformer LLMs<br>
+          Transformer-based LLMs excel at language tasks, but their efficiency hinges on input sequence length. Typically, input resolution—imposed by a tokenizer—remains unchanged across all layers. In this talk, we introduce methods that enable end-to-end learning to dynamically pool, compress, or sparsify input or key-value token sequences. By effectively tracking down and removing redundancies, these methods deliver performance gains during training or inference. We arrive at a surprisingly practical method—Dynamic Memory Sparsification—that allows a model to achieve 8x KV cache compression within just a few hundred training steps. The resulting savings can be used not only to improve throughput and latency, but also to boost accuracy, as demonstrated across several reasoning tasks.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</html>
+
+
+<!-- <html>
     <div class="team-container">
         <div class="team-member">
             <img src="/assets/img/speakers/yuval.jpg" alt="Yuval Pinter">
@@ -25,7 +74,7 @@ nav_order: 2
             <br>NVIDIA</p>
         </div>
     </div>
-</html>
+</html> -->
 
 <!-- <html>
     <div class="team-container">
