@@ -102,7 +102,39 @@ nav_order: 2
 </html> -->
 
 
+
 <style>
+
+.keynote-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.keynote-speaker {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.5rem;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1.5rem;
+}
+
+.keynote-speaker img {
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.keynote-details h3 {
+  margin: 0;
+}
+
+.abstract {
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
+
     /* Style for the team container */
 .team-container {
     display: grid;
