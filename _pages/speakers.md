@@ -32,8 +32,8 @@ nav_order: 2
           <small>University of Copenhagen</small>
         </h3>
         <p class="abstract">
-          <strong>TBD</strong><br>
-          Abstract will be available soon.
+          <strong>Insights from Pixel Language Modeling</strong><br>
+          Language models typically have a multilingual representation bottleneck starting from their tokenizers. As an alternative vision, I will talk about pixel language models, which avoid this bottleneck by rendering text as images. Pixel language models can transfer within and across writing systems without paying a computational cost for their flexibility. I will present a series of models, pretrained on only English text or with multilingual pretraining, at scales ranging from just 5M parameters up to 86M parameters, on downstream tasks in 14 scripts. I will conclude by reflecting on the lessons learned from the early years of this type of tokenization-free representation.
         </p>
       </div>
     </div>
