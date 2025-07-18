@@ -13,7 +13,7 @@ nav_order: 3
 
 **9:10 a.m. – 10:00 a.m.** -- **Invited Talk (Yuval Pinter):** *Beat them? Join them? Fix them? Tokenization Research in a Downstream World*
 
-**10:00 a.m. – 10:50 a.m.** -- **Invited Talk (Desmond Elliott):** *TBD*
+**10:00 a.m. – 10:50 a.m.** -- **Invited Talk (Desmond Elliott):** *Insights from Pixel Language Modeling*
 
 **10:50 a.m. – 12:00 p.m.** --
 
