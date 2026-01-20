@@ -20,7 +20,6 @@ nav_order: 3
 **Poster Session: Tokenization of Text**
 
 * *Broken Tokens? Your Language Model can Secretly Handle Non-Canonical Tokenizations* — Brian Zheng, Alisa Liu, Orevaoghene M Ahia, Jonathan Hayase, Yejin Choi, Noah Smith
-* *Subword Tokenization Strategies for Kurdish Word Embeddings* — Ali Salehi, Cassandra Jacobs
 * *Continuous Chain of Thought Enables Parallel Exploration and Reasoning* — Halil Alperen Gozeten, Muhammed Emrullah Ildiz, Xuechen Zhang, Hrayr Harutyunyan, Ankit Singh Rawat, Samet Oymak
 * *Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8* — Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic
 * *Is Your LLM Overcharging You? Tokenization, Transparency, and Incentives* — Ander Artola Velasco, Stratis Tsirtsis, Nastaran Okati, Manuel Gomez-Rodriguez
