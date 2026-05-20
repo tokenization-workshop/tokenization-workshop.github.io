@@ -11,8 +11,8 @@ nav_order: 1
 <br>
 ### Important Dates
 
-* Submission begins: May 20, 2025
-  * Submission portal: [OpenReview](#)
+* Submission begins: May 20, 2026
+  * Submission portal: [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/TokShop#tab-your-consoles)
 * Submission deadline: June 23, 2026 (11:59pm, anywhere on earth)
 * Notification of acceptance: July 24, 2025
 * Camera-ready papers due: TBA (11:59pm, anywhere on earth)
@@ -39,9 +39,9 @@ By broadening the scope of tokenization research beyond language, this workshop 
 ### Guidelines
 
 Our author guidelines follow the COLM requirements unless otherwise specified. 
-* Paper submission is hosted on [OpenReview](#).
+* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/TokShop).
 * Each submission should contain __up to 9 pages__, not including references or appendix (shorter submissions also welcome). 
-  * Please use the provided LaTeX template ([Style Files](#)) for your submission. Please follow the paper formatting guidelines general to [COLM](#) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
+  * Please use the provided LaTeX template ([Style Files](https://github.com/COLM-org/Template/releases/tag/2026)) for your submission. Please follow the paper formatting guidelines general to [COLM](https://colmweb.org/cfp.html) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix.
   * Posting papers on preprint servers like ArXiv is permitted.
@@ -57,7 +57,7 @@ Our author guidelines follow the COLM requirements unless otherwise specified.
         <div class="team-member">
             <img src="/assets/img/organizers/tomasz.jpeg" alt="Name 1">
             <a href="https://tomlimi.github.io/">Tomasz Limisiewicz</a>
-            <p>Meta<br>Meta</p>
+            <p>University of Washington<br>Meta</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/valentin.jpeg" alt="Name 4">
