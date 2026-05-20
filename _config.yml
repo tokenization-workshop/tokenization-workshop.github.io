@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tokenization Workshop @ COLM 2026 # the website title (if blank, full name will be used instead)
+title: Second Tokenization Workshop @ COLM 2026 # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
 last_name: 
 email: tokshop@googlegroups.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-  Tokenization Workshop @ COLM 2026
+  Second Tokenization Workshop @ COLM 2026
 keywords: tokenization, workshop  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
