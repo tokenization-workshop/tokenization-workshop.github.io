@@ -11,26 +11,26 @@ nav_order: 1
 <br>
 ### Important Dates
 
-* Submission begins: April 14, 2025
-  * Submission portal: [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/TokShop#tab-recent-activity)
-* Submission deadline: ~~May 30~~ May 31, 2025 (11:59pm, anywhere on earth)
-* Notification of acceptance: June 9, 2025
-* Camera-ready papers due: ~~June 18~~ June 25, 2025 (11:59pm, anywhere on earth)
-* Workshop date: July 18, 2025
+* Submission begins: May 20, 2025
+  * Submission portal: [OpenReview](#)
+* Submission deadline: June 23, 2026 (11:59pm, anywhere on earth)
+* Notification of acceptance: July 24, 2025
+* Camera-ready papers due: TBA (11:59pm, anywhere on earth)
+* Workshop date: TBA
 
 
 ### Topics of Interest
 
-Tokenization—the process of converting raw data into discrete units for model input and output—has emerged as a critical component across machine learning domains. Originally central to natural language processing (NLP), tokenization is now equally essential in multimodal learning, computer vision, speech processing, and other areas. Recent research has shown that tokenization strategies significantly impact model utility, efficiency, and generalization, sparking a surge of interest in this foundational topic.
+Tokenization--the process of converting raw data into discrete units for model input and output--has emerged as a critical component across machine learning domains. Originally central to natural language processing (NLP), tokenization is now equally essential in multimodal learning, computer vision, speech processing, and other areas. Recent research has shown that tokenization strategies significantly impact model utility, efficiency, and generalization, sparking a surge of interest in this foundational topic.
 
-The Tokenization Workshop (TokShop) at ICML aims to bring together researchers and practitioners from all corners of machine learning to explore tokenization in its broadest sense. We will discuss innovations, challenges, and future directions for tokenization across diverse data types and modalities. Topics of interest include:
+The Second Tokenization Workshop (TokShop) at COLM 2026 aims to bring together researchers and practitioners from all corners of machine learning to explore tokenization in its broadest sense. We will discuss innovations, challenges, and future directions for tokenization across diverse data types and modalities. Topics of interest include:
 
-* **Subword Tokenization in NLP**: Analysis of techniques such as BPE, WordPiece, and UnigramLM, as well as improvements for efficiency, interpretability, and adaptability.
-* **Multimodal Tokenization**: Tokenization strategies for images, audio, video, and other modalities, including methods to align representations across different types of data.
-* **Multilingual Tokenization**: Development of tokenizers that work robustly across languages and scripts, and investigation into failure modes tied to tokenization.
-* **Tokenizer Modification Post-Training**: Methods for updating tokenizers after model training to boost performance and/or efficiency without retraining from scratch.
-* **Alternative Input Representations**: Exploration of non-traditional tokenization approaches, such as byte-level, pixel-level, or patch-based representations.
-* **Statistical Perspectives on Tokenization**: Empirical analysis of token distributions, compression properties, and correlations with model behavior.
+* **Subword Tokenization**. Examination of current techniques such as WordPiece, BPE, and UnigramLM, as well as extensions to improve their efficiency and applicability.
+* **Tokenization for Various Modalities**. Techniques of tokenization for images, audio, and video. Study of representation alignment across modalities.
+* **Multilingual Tokenization**. Focus on ensuring tokenization methods are equitable and effective across various languages. Identification of relevant failure modes caused by tokenization.
+* **Tokenizer Modification**. Methods for updating tokenizers after model training to improve the model’s efficiency or performance without retraining from scratch.
+* **Alternative Approaches to Represent Input**. Investigation into alternative input representations for data such as patches, bytes, or pixels.
+* **Tokenization and Statistics**. Statistical analysis of subword properties. For instance, the study of compression effectiveness of different tokenization methods.
 
 By broadening the scope of tokenization research beyond language, this workshop seeks to foster cross-disciplinary dialogue and inspire new advances at the intersection of representation learning, data efficiency, and model design.
 
@@ -38,10 +38,10 @@ By broadening the scope of tokenization research beyond language, this workshop 
 
 ### Guidelines
 
-Our author guidelines follow the ICML requirements unless otherwise specified. 
-* Paper submission is hosted on [OpenReview](https://openreview.net/group?id=ICML.cc/2025/Workshop/TokShop#tab-recent-activity).
+Our author guidelines follow the COLM requirements unless otherwise specified. 
+* Paper submission is hosted on [OpenReview](#).
 * Each submission should contain __up to 9 pages__, not including references or appendix (shorter submissions also welcome). 
-  * Please use the provided LaTeX template ([Style Files](https://media.icml.cc/Conferences/ICML2025/Styles/icml2025.zip)) for your submission. Please follow the paper formatting guidelines general to [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
+  * Please use the provided LaTeX template ([Style Files](#)) for your submission. Please follow the paper formatting guidelines general to [COLM](#) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
   * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
   * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix.
   * Posting papers on preprint servers like ArXiv is permitted.
@@ -57,12 +57,12 @@ Our author guidelines follow the ICML requirements unless otherwise specified.
         <div class="team-member">
             <img src="/assets/img/organizers/tomasz.jpeg" alt="Name 1">
             <a href="https://tomlimi.github.io/">Tomasz Limisiewicz</a>
-            <p>Meta<br>University of Washington</p>
+            <p>Meta<br>Meta</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/valentin.jpeg" alt="Name 4">
             <a href="https://valentinhofmann.github.io/">Valentin Hofmann</a>
-            <p>Allen Institute for AI<br>University of Washington</p>
+            <p>LMU Munich</p>
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/sachin.png" alt="Name 5">
@@ -90,10 +90,16 @@ Our author guidelines follow the ICML requirements unless otherwise specified.
             <p>Google Deepmind</p>
         </div>
         <div class="team-member">
-            <img src="/assets/img/organizers/samir.png" alt="Name 8">
-            <a href="https://farhansamir.notion.site/samir">Farhan Samir</a>
-            <p>University of British Columbia</p>
+            <img src="/assets/img/organizers/yuki.jpg" alt="Name 7">
+            <a href="">Yuki Asano</a>
+            <p>University of Technology Nuremberg</p>
         </div>
+        <div class="team-member">
+            <img src="/assets/img/organizers/yuval.jpg" alt="Name 7">
+            <a href="">Yuval Pinter</a>
+            <p>Ben-Gurion University of the Negev</p>
+        </div>
+        
     </div>
 </html>
 <br>
