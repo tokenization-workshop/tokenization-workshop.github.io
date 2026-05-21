@@ -16,7 +16,7 @@ nav_order: 1
 * Submission deadline: June 23, 2026 (11:59pm, anywhere on earth)
 * Notification of acceptance: July 24, 2026
 * Camera-ready papers due: TBA (11:59pm, anywhere on earth)
-* Workshop date: TBA
+* Workshop date: October 9, 2026.
 
 
 ### Topics of Interest
