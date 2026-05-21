@@ -43,7 +43,6 @@ Our author guidelines follow the COLM requirements unless otherwise specified.
 * We accept non-archival submissions of two types:
     * Research papers (up to 9 pages not including references or appendices) 
     * Extended abstracts (up to 2 pages)
-* Each submission should contain __up to 9 pages__, not including references or appendix (shorter submissions also welcome). 
 * Please use the provided LaTeX template ([Style Files](https://github.com/COLM-org/Template/releases/tag/2026)) for your submission. Please follow the paper formatting guidelines general to [COLM](https://colmweb.org/cfp.html) as specified in the style files. Authors may not modify the style files or use templates designed for other conferences.
 * The paper should be anonymized and uploaded to OpenReview as a single PDF. 
 * You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix.
@@ -51,20 +50,6 @@ Our author guidelines follow the COLM requirements unless otherwise specified.
 * We encourage each submission to discuss the limitations as well as ethical and societal implications of their work, wherever applicable (but neither are required). These sections do not count towards the page limit.
 * The review process will be double-blind.
 <br>
-
-
-Our author guidelines follow the COLM requirements unless otherwise specified.
-
-Paper submission is hosted on OpenReview.
-We accept non-archival submissions of two types:
-Research papers (up to 9 pages not including references or appendices)
-Extended abstracts (up to 2 pages)
-Please use the provided LaTeX template (Style Files) for your submission. Please follow the paper formatting guidelines general to COLM as specified in the style files.
-You may use as many pages of references and appendix as you wish, but reviewers are not required to read the appendix.
-Posting papers on preprint servers like ArXiv is permitted.
-We encourage each submission to discuss the limitations as well as ethical and societal implications of their work, wherever applicable (but neither are required). These sections do not count towards the page limit.
-The paper should be anonymized and uploaded to OpenReview as a single PDF.
-The review process will be double-blind.
 
 ## Organizers
 <html>
