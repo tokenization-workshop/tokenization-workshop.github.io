@@ -14,7 +14,7 @@ nav_order: 1
 * Submission begins: May 20, 2026
   * Submission portal: [OpenReview](https://openreview.net/group?id=colmweb.org/COLM/2026/Workshop/TokShop#tab-your-consoles)
 * Submission deadline: June 23, 2026 (11:59pm, anywhere on earth)
-* Notification of acceptance: July 24, 2025
+* Notification of acceptance: July 24, 2026
 * Camera-ready papers due: TBA (11:59pm, anywhere on earth)
 * Workshop date: TBA
 
