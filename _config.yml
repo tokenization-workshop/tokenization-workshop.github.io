@@ -131,6 +131,7 @@ kramdown:
 # Includes & excludes
 include: ['_pages']
 exclude:
+  - _pages/speakers_.md
   - bin
   - Gemfile
   - Gemfile.lock
