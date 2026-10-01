@@ -7,7 +7,37 @@ nav_order: 3
 ---
 # Schedule
 
-TBA
+**Friday, October 9, 2026**
+
+All times are in San Francisco local time (PDT, UTC-7).
+
+**9:00 a.m. - 9:10 a.m.** - **Opening**
+
+**9:10 a.m. - 10:00 a.m.** - **Invited Talk (Tiago Pimentel):** *How much does tokenisation impact language models?*
+
+**10:00 a.m. - 10:10 a.m.** - **Coffee Break**
+
+**10:10 a.m. - 11:00 a.m.** - **Invited Talk (Alexandre Defossez):** *TBA*
+
+**11:00 a.m. - 11:20 a.m.** - **Coffee Break**
+
+**11:20 a.m. - 12:30 p.m.** - **[Morning Poster Session]({{ '/accepted/' | relative_url }}#morning-poster-session)**
+
+**12:30 p.m. - 1:40 p.m.** - **Lunch Break**
+
+**1:40 p.m. - 2:30 p.m.** - **Invited Talk (Amir Zamir):** *(Multimodal) Flexible-Length Tokenization*
+
+**2:30 p.m. - 2:40 p.m.** - **Coffee Break**
+
+**2:40 p.m. - 3:30 p.m.** - **Invited Talk (Artidoro Pagnoni):** *TBA*
+
+**3:30 p.m. - 3:50 p.m.** - **Coffee Break**
+
+**3:50 p.m. - 5:00 p.m.** - **[Afternoon Poster Session]({{ '/accepted/' | relative_url }}#afternoon-poster-session)**
+
+**5:00 p.m. - 6:00 p.m.** - **Panel:** *Bridging Gaps across Modalities*
+
+**6:00 p.m.** - **Closing Remarks**
 
 <style>
     /* Style for the team container */
