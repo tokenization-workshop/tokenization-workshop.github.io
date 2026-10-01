@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /tokshop-2025/accepted/
+permalink: /tokshop-2025/
 title: Past Versions
 description:
 nav: true
