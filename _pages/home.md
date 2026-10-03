@@ -95,7 +95,7 @@ Our author guidelines follow the COLM requirements unless otherwise specified.
         </div>
         <div class="team-member">
             <img src="/assets/img/organizers/yuval.jpg" alt="Name 7">
-            <a href="">Yuval Pinter</a>
+            <a href="https://www.yuvalpinter.com/">Yuval Pinter</a>
             <p>Ben-Gurion University of the Negev</p>
         </div>
         
