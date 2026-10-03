@@ -59,9 +59,9 @@ Friday, October 9, 2026. All times are in San Francisco local time (PDT, UTC-7).
       <h3><a href="https://artidoro.github.io/">Artidoro Pagnoni</a></h3>
       <p>University of Washington / Meta</p>
       <p><strong>2:40 p.m. - 3:30 p.m.</strong><br>
-      <em>Talk title: TBA</em></p>
+      <em>Tokenization as Resource Allocation</em></p>
       <p class="abstract"><strong>Abstract:</strong>
-        TBA
+        Tokenization is usually treated as preprocessing. This talk argues it is better understood as a resource allocation policy: the choice of input unit, from single bytes to long patches, determines how computation, memory, and data are distributed. Recent work has shown this allocation need not be uniform or fixed, whether through entropy-based byte patching, learned hierarchies, or coarser subword schemes. What it controls depends on the objective. In training, the compression rate is a scaling-law variable. At inference, it sets how often parameters are streamed per unit of output, a binding constraint for current hardware. In distillation, it need not match between teacher and student, and finer-grained students are more data-efficient.
       </p>
       <p>Bio: Artidoro Pagnoni is a research scientist on the FAIR team at Meta Superintelligence. His work focuses on making language models more efficient and scalable by rethinking assumptions that are usually taken as given, such as fixed tokenization and uniform computation per token. He is the lead author of the Byte Latent Transformer (BLT), a byte-level architecture that replaces fixed tokens with dynamically sized patches, and a co-creator of QLoRA. His research has received a best paper award and orals at ACL and NeurIPS, and the Madrona Prize. He holds a PhD from the University of Washington.</p>
     </div>

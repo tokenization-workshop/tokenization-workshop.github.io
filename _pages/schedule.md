@@ -17,7 +17,7 @@ All times are in San Francisco local time (PDT, UTC-7).
 
 **10:00 a.m. - 10:10 a.m.** - **Coffee Break**
 
-**10:10 a.m. - 11:00 a.m.** - **Invited Talk (Alexandre Defossez):** *TBA*
+**10:10 a.m. - 11:00 a.m.** - **Invited Talk (Alexandre D&eacute;fossez):** *Discrete and continuous tokenization for audio-text modeling*
 
 **11:00 a.m. - 11:20 a.m.** - **Coffee Break**
 
@@ -29,7 +29,7 @@ All times are in San Francisco local time (PDT, UTC-7).
 
 **2:30 p.m. - 2:40 p.m.** - **Coffee Break**
 
-**2:40 p.m. - 3:30 p.m.** - **Invited Talk (Artidoro Pagnoni):** *TBA*
+**2:40 p.m. - 3:30 p.m.** - **Invited Talk (Artidoro Pagnoni):** *Tokenization as Resource Allocation*
 
 **3:30 p.m. - 3:50 p.m.** - **Coffee Break**
 
