@@ -25,26 +25,12 @@ Friday, October 9, 2026. All times are in San Francisco local time (PDT, UTC-7).
     </div>
   </section>
 
-  <section class="keynote-speaker" id="alexandre-defossez">
-    <img src="{{ '/assets/img/speakers/alexandre-defossez.jpg' | relative_url }}" alt="Alexandre D&eacute;fossez" width="150" height="150">
-    <div class="keynote-details">
-      <h3><a href="https://ai.honu.io/">Alexandre D&eacute;fossez</a></h3>
-      <p>Kyutai</p>
-      <p><strong>10:10 a.m. - 11:00 a.m.</strong><br>
-      <em>Discrete and continuous tokenization for audio-text modeling</em></p>
-      <p class="abstract"><strong>Abstract:</strong>
-        Audio signals are inherently stochastic. Naive representations would require tens of thousands of auto-regressive steps per seconds, make them incompatible with LM based methods. We will see how using adversarial auto-encoder with a discrete information bottleneck, one can reduce that drastically to a few hundred, making audio language modeling tractable with custom architectures. Yet such discrete tokenizations have limits: higher quality requires more tokens, which accounting for more computation time than the content itself. We will thus open up on recent advances in continuous tokenization and generation for audio.
-      </p>
-      <p>Alexandre is a co-founder of Kyutai, a non profit lab for research in artificial intelligence based in Paris committed to open science. His work covers generative speech and multimodal AI (Moshi, Hibiki, DSM) with a strong focus on handling multiple streams jointly across modalities in a streaming and low latency fashion. He is also a co-founder and Chief Science Officer at Gradium, a startup launched in 2025 whose mission is to commercialize the best possible voice AI experience. Before that, Alexandre was a scientist for 3 years at Facebook AI Research in Paris, where he led the development of models for audio compression and modeling (AudioCraft, MusicGen, EnCodec).</p>
-    </div>
-  </section>
-
   <section class="keynote-speaker" id="amir-zamir">
     <img src="{{ '/assets/img/speakers/amir-zamir.jpeg' | relative_url }}" alt="Amir Zamir" width="150" height="150" loading="lazy">
     <div class="keynote-details">
       <h3><a href="https://vilab.epfl.ch/zamir/">Amir Zamir</a></h3>
       <p>EPFL</p>
-      <p><strong>1:40 p.m. - 2:30 p.m.</strong><br>
+      <p><strong>10:10 a.m. - 11:00 a.m.</strong><br>
       <em>(Multimodal) Flexible-Length Tokenization</em></p>
       <p class="abstract"><strong>Abstract:</strong>
         I will discuss flexible-length tokenization and the intriguing structures that emerge as its byproduct. Most visual tokenizers map an image or video to a fixed number of tokens, regardless of its content. I will describe simple learning mechanisms, e.g., a latent PCA-like constraint, for developing flexible-length tokenization, where the same input can be represented by a variable number of tokens (FlexTok and VideoFlexTok). I will show the interesting structures that emerge in the representation as a result of the flexible-length compression – e.g., a coarse-to-fine semantic order in FlexTok and object-motion disentanglement in VideoFlexTok. I will then discuss multimodal learning (models like 4M and its extensions to 3D, videos, and decoder-only architectures), how we can move toward multimodal tokenization, and what we want from a multimodal tokenizer in the first place.
@@ -53,6 +39,20 @@ Friday, October 9, 2026. All times are in San Francisco local time (PDT, UTC-7).
     </div>
   </section>
 
+  <section class="keynote-speaker" id="alexandre-defossez">
+    <img src="{{ '/assets/img/speakers/alexandre-defossez.jpg' | relative_url }}" alt="Alexandre D&eacute;fossez" width="150" height="150">
+    <div class="keynote-details">
+      <h3><a href="https://ai.honu.io/">Alexandre D&eacute;fossez</a></h3>
+      <p>Kyutai</p>
+      <p><strong>1:40 p.m. - 2:30 p.m.</strong><br>
+      <em>Discrete and continuous tokenization for audio-text modeling</em></p>
+      <p class="abstract"><strong>Abstract:</strong>
+        Audio signals are inherently stochastic. Naive representations would require tens of thousands of auto-regressive steps per seconds, make them incompatible with LM based methods. We will see how using adversarial auto-encoder with a discrete information bottleneck, one can reduce that drastically to a few hundred, making audio language modeling tractable with custom architectures. Yet such discrete tokenizations have limits: higher quality requires more tokens, which accounting for more computation time than the content itself. We will thus open up on recent advances in continuous tokenization and generation for audio.
+      </p>
+      <p>Alexandre is a co-founder of Kyutai, a non profit lab for research in artificial intelligence based in Paris committed to open science. His work covers generative speech and multimodal AI (Moshi, Hibiki, DSM) with a strong focus on handling multiple streams jointly across modalities in a streaming and low latency fashion. He is also a co-founder and Chief Science Officer at Gradium, a startup launched in 2025 whose mission is to commercialize the best possible voice AI experience. Before that, Alexandre was a scientist for 3 years at Facebook AI Research in Paris, where he led the development of models for audio compression and modeling (AudioCraft, MusicGen, EnCodec).</p>
+    </div>
+  </section>
+  
   <section class="keynote-speaker" id="artidoro-pagnoni">
     <img src="{{ '/assets/img/speakers/artidoro-pagnoni.jpg' | relative_url }}" alt="Artidoro Pagnoni" width="150" height="150" loading="lazy">
     <div class="keynote-details">
